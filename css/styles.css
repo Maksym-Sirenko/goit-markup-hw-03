@@ -236,6 +236,7 @@ button {
     display: flex;
     flex-direction: row;
     gap: 24px;
+    justify-content: space-between;
 }
 
 .advantages-section {
@@ -319,10 +320,12 @@ button {
 .portfolio-section {
     padding-top: 120px;
     padding-bottom: 120px;
+    
 }
 
 .portfolio-title {
     margin-bottom: 72px;
+        text-align: center;
 }
 
 .portfolio-list {
